@@ -1,4 +1,4 @@
 /* write your override styles here */
-#wall .tag-1 ,div#wall #tag-2 ,#wall #tag-3.slick.wicked, div#wall .parent #tag-4, div#wall div.parent div#tag-5.slick, div#wall div.parent div:first-of-type #tag-6{
+#wall .tag-1 ,div#wall #tag-2 ,#wall #tag-3.slick.wicked, div#wall .parent #tag-4, div#wall div.parent div#tag-5.slick, div#wall .parent div#tag-6{
   display: none;
 }
