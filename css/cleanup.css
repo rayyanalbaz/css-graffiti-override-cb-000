@@ -1,4 +1,4 @@
 /* write your override styles here */
-#wall .tag-1, #wall #tag-2 , #wall  ,#wall .parent #tag-4, #wall .parent , #wall .parent #tag-7 {
+#wall .tag-1, #wall #tag-2   ,#wall .parent #tag-4, #wall .parent , #wall .parent #tag-7 {
   display: none;
 }
